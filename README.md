@@ -1,0 +1,4 @@
+Securecoin
+==========
+
+Cryptocurrency Secured
